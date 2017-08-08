@@ -1,13 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "且以生命之火暖我手，她一熄，我转身便走"
 header-img: "img/green.jpg"
 ---
-
-
-我是陈素封，持续写作者，终身学习者，我的产品列表如下：
-
 
 
 
