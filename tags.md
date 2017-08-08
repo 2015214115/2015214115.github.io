@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "按标签浏览"  
-header-img: "img/Red-Brown.jpg"  
+header-img: "img/Red-Brown.jpg"
 ---
 
 
