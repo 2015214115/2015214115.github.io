@@ -3,7 +3,7 @@ layout: post
 title: 我的第一篇博文
 date: 2017-08-11
 categories: blog
-tags: [tag1,tag2]
+tags: [生活,tag2]
 description: 
 ---
 
