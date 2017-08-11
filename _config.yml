@@ -13,15 +13,10 @@ owner:
   bio: "Viva la vida"
 
 # Data
-gavatar: img/avatar.jpg
-favicon: img/avatar.jpg
+gavatar: favicon.ico
+favicon: favicon.ico
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+github_username: 2015214115
 
 # Build settings  
 # use Github Flavored Markdown !important  
