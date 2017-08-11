@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "按标签浏览"  
+description: "标签浏览"  
 header-img: "img/Red-Brown.jpg"
 ---
 
