@@ -13,8 +13,8 @@ owner:
   bio: "Viva la vida"
 
 # Data
-gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
-favicon: img/favicon.ico
+gavatar: img/avatar.jpg
+favicon: img/avatar.jpg
 
 douban_username:  cnfeat
 twitter_username: feat
@@ -43,7 +43,7 @@ defaults:
     values:
       layout: "post"
       author: "Alan"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
